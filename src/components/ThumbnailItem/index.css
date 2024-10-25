@@ -1,0 +1,17 @@
+li{
+    list-style: none;
+    
+}
+li img{
+    width: 100px;
+    height: auto;
+    margin-left: 40px;
+    border-radius: 10px;
+    
+}
+.selected-img{
+    opacity: 1;
+}
+.not-selected-img{
+    opacity: 0.4;
+}
